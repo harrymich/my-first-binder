@@ -5,3 +5,4 @@ floweaver
 ipysankeywidget
 xlrd >= 1.0.0
 openpyxl
+cufflinks
