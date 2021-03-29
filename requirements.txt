@@ -8,6 +8,6 @@ openpyxl
 cufflinks
 chart_studio
 seaborn
-matplotlib.pylab
+matplotlib
 ipywidgets
 pandas_profiling
